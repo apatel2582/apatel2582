@@ -17,3 +17,11 @@ jobs:
         uses: SonarSource/sonarqube-scan-action@v5
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+  codecov:
+    name: Upload coverage to Codecov
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@main
+      - uses: codecov/codecov-action@v5
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}

@@ -1,13 +1,20 @@
 # Anishkumar Patel QA CA Portfolio
 
-![Anishkumar Patel](https://avatars.githubusercontent.com/u/2582?s=200&v=4)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=27&pause=1000&color=A9B0BB&background=282C34&center=true&width=800&lines=Hi!+I%27m+Anishkumar;QA+Automation+Engineer;Welcome+to+my+Repo)
 
 > My consolidated QA portfolio showcasing end‑to‑end testing: Web UI, API, Performance, Code Quality & Containerization.
 
+<!-- GitHub stats -->
+
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=apatel2582&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apatel2582&layout=compact&theme=dark)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anishkumar-blue?logo=linkedin)](https://www.linkedin.com/in/anishkumar-patel/)  
+[![Email](https://img.shields.io/badge/Email-anishkumarp.ca@gmail.com-red?logo=gmail)](mailto:anishkumarp.ca@gmail.com)
+
 ---
 
-[![CI Status](https://img.shields.io/github/actions/workflow/status/apatel2582/apatel2582/ci.yml)](https://github.com/apatel2582/apatel2582/actions)
-[![Coverage](https://img.shields.io/codecov/c/github/apatel2582/apatel2582)](https://codecov.io/gh/apatel2582/apatel2582)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/apatel2582/apatel2582/build.yml)](https://github.com/apatel2582/apatel2582/actions)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=apatel2582_apatel2582&metric=alert_status)](https://sonarcloud.io/dashboard?id=apatel2582_apatel2582)
 
 ---
