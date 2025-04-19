@@ -9,13 +9,11 @@
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=apatel2582&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apatel2582&layout=compact&theme=dark)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anishkumar-blue?logo=linkedin)](https://www.linkedin.com/in/anishkumar-patel/)  
-[![Email](https://img.shields.io/badge/Email-anishkumarp.ca@gmail.com-red?logo=gmail)](mailto:anishkumarp.ca@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anishkumar-blue?logo=linkedin)](https://www.linkedin.com/in/anishkumar-patel/) [![Email](https://img.shields.io/badge/Email-anishkumarp.ca@gmail.com-red?logo=gmail)](mailto:anishkumarp.ca@gmail.com)
 
 ---
 
-[![CI Status](https://img.shields.io/github/actions/workflow/status/apatel2582/apatel2582/build.yml)](https://github.com/apatel2582/apatel2582/actions)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=apatel2582_apatel2582&metric=alert_status)](https://sonarcloud.io/dashboard?id=apatel2582_apatel2582)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/apatel2582/apatel2582/build.yml)](https://github.com/apatel2582/apatel2582/actions) [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=apatel2582_apatel2582&metric=alert_status)](https://sonarcloud.io/dashboard?id=apatel2582_apatel2582)
 
 ---
 
