@@ -1,6 +1,6 @@
 # Anishkumar Patel QA CA Portfolio
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=27&pause=1000&color=A9B0BB&background=282C34&center=true&width=800&lines=Hi!+I%27m+Anishkumar;QA+Automation+Engineer;Welcome+to+my+Repo)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=32&pause=1000&color=61dafb&center=true&width=800&lines=Hi!+I%27m+Anishkumar+👋;QA+Automation+Engineer;Building+Reliable+Software;Let%27s+Automate+Together)
 
 > My consolidated QA portfolio showcasing end‑to‑end testing: Web UI, API, Performance, Code Quality & Containerization.
 
