@@ -8,7 +8,7 @@
 
 [![CI Status](https://img.shields.io/github/actions/workflow/status/apatel2582/apatel2582/ci.yml)](https://github.com/apatel2582/apatel2582/actions)
 [![Coverage](https://img.shields.io/codecov/c/github/apatel2582/apatel2582)](https://codecov.io/gh/apatel2582/apatel2582)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=apatel2582_apatel2582&metric=alert_status)](https://sonarcloud.io/dashboard?id=apatel2582)
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=apatel2582_apatel2582&metric=alert_status)](https://sonarcloud.io/dashboard?id=apatel2582_apatel2582)
 
 ---
 
