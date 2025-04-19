@@ -9,8 +9,6 @@
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=apatel2582&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apatel2582&layout=compact&theme=dark)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anishkumar-blue?logo=linkedin)](https://www.linkedin.com/in/anishkumar-patel/) [![Email](https://img.shields.io/badge/Email-anishkumarp.ca@gmail.com-red?logo=gmail)](mailto:anishkumarp.ca@gmail.com)
-
 ---
 
 [![CI Status](https://img.shields.io/github/actions/workflow/status/apatel2582/apatel2582/build.yml)](https://github.com/apatel2582/apatel2582/actions) [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=apatel2582_apatel2582&metric=alert_status)](https://sonarcloud.io/dashboard?id=apatel2582_apatel2582)
@@ -51,6 +49,8 @@ A one‑stop showcase of my QA skillset—built with industry‑standard tools a
 
 ## Modules
 
+The main repo for my QA demonstration is `apatel2582/awesome-qa-portfolio`.
+[Awesome QA Portfolio](https://github.com/apatel2582/awesome-qa-portfolio)
 Each folder is a standalone framework. See its own `README.md` for details:
 
 - **`web-ui-automation/`**  
@@ -68,8 +68,9 @@ Each folder is a standalone framework. See its own `README.md` for details:
 
 ## Prerequisites
 
-- **Java 11+** (JDK)
-- **Maven 3.6+** (or Gradle if preferred)
+- **Java 21** (JDK)
+- **Maven 3.6+**
+- **Gradle**
 - **Docker 20.10+** & **Docker‑Compose 1.29+**
 - **Git** (SSH key configured)
 - _(Optional)_ **Node.js** & **Newman** for Postman collections
@@ -80,8 +81,8 @@ Each folder is a standalone framework. See its own `README.md` for details:
 
 ```bash
 # 1. Clone
-git clone git@github.com:apatel2582/anishkumarpca.git
-cd anishkumarpca
+git clone git@github.com:apatel2582/awesome-qa-portfolio.git
+cd awesome-qa-portfolio
 
 # 2. Run all UI & API tests
 mvn clean test
@@ -157,6 +158,6 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 **Anishkumar Pankajkumar Patel**
 
-- GitHub: [@apatel2582](https://github.com/apatel2582)
-- Email: anishkumarp.ca@gmail.com
-- LinkedIn: [anishkumar‑patel](https://www.linkedin.com/in/anishkumar-patel/)
+- [![GitHub](https://img.shields.io/badge/GitHub-%40apatel2582-181717?logo=github)](https://github.com/apatel2582)
+- [![Email](https://img.shields.io/badge/Email-anishkumarp.ca@gmail.com-red?logo=gmail)](mailto:anishkumarp.ca@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anishkumar-blue?logo=linkedin)](https://www.linkedin.com/in/anishkumar-patel/)
