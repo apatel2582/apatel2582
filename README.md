@@ -28,8 +28,6 @@
     - [API](#api)
     - [Performance](#performance)
   - [CI/CD](#cicd)
-  - [Contributing](#contributing)
-  - [License](#license)
   - [Author \& Contact](#author--contact)
 
 ---
@@ -134,23 +132,6 @@ All suites are wired into GitHub Actions (`.github/workflows/ci.yml`):
 - **api-tests** → RestAssured/Newman runs
 - **perf-tests** → JMeter headless
 - **quality** → JaCoCo coverage + SonarCloud scan
-
----
-
-## Contributing
-
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes & push (`git push origin feature/your-feature`)
-4. Open a Pull Request, reference issues if any
-
-Please abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) and run all tests locally before opening a PR.
-
----
-
-## License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 ---
 
